@@ -1,9 +1,9 @@
 .navbar-default .navbar-brand {
     color: #ffffff;
-    background-color: rgb(134, 190, 184);
-    font-family: Roboto;
-    font-size: 34px;
-    font-weight: 300;
+    background-color: rgb(17, 39, 125);
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: 400;
 }
 
 .navbar-header {
@@ -12,45 +12,45 @@
 }
 
 .sigline {
-    color: rgb(134, 190, 184);
+    color: rgb(17, 39, 125);
     text-align: left;
     float: left;
-    font-family: Roboto;
+    font-family: Arial;
 }
 
 .navbar-header .navbar-toggle .collapsed {
     float: right;
-    font-family: Roboto;
-    color: rgb(134, 190, 184);
+    font-family: Arial;
+    color: rgb(17, 39, 125);
 }
 
 .content {
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 h1 {
-    font-family: Roboto;
-    font-size: 38px;
-    font-weight: 300;
+    font-family: Arial;
+    font-size: 42px;
+    font-weight: 400;
     text-align: center
 }
 
 h2 {
-    font-family: Roboto;
+    font-family: Arial;
     font-size: 28px;
-    font-weight: 300;
+    font-weight: 400;
     text-align: center
 }
 
 h3 {
-    font-family: Roboto;
-    font-weight: 300;
+    font-family: Arial;
+    font-weight: 400;
     text-align: center;
 }
 
 .box {
     color: #fff;
-    background: #7609b6;
+    background: #15B2E8;
 }
 
 .box-left {
@@ -84,7 +84,7 @@ h3 {
 
 .jumbotron {
     color: #fff;
-    background: #7609b6;
+    background: ##77CFED;
     width: 100%;
     height: 100%;
     padding: 25px
@@ -100,7 +100,7 @@ h3 {
 
 .table {
     color: #fff;
-    background: #7609b6;
+    background: ##77CFED;
     width: 100%;
     height: 100%;
     padding: 15px
